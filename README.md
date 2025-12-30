@@ -5,6 +5,8 @@ Machine Learning project - *k* Nearest Neighbors for image processing
 I use the dataset MNIST784 from *scikit-learn* library which is 70 000 handwritten numbers between 0 and 9.
 I recreate the dataset with images to be more flexible (with other images for other projects for instance).
 
+Put all files in a same folder and write `python main.py` in your terminal.
+
 You can choose a *k* and compute the optimal *k*.
 You have all results (confusion matrix, different performances...) in a txt file.
 
