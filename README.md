@@ -5,12 +5,12 @@
 I use the dataset MNIST784 from *scikit-learn* Python library: 70 000 handwritten numbers between 0 and 9.
 I recreate the dataset with images to be more flexible (with other images for other projects for instance).
 My algorithm has an accuracy of 97 % for a dataset of only 1 000 images, which is very good!
-Take a look of other performances parameters!
+Take a look of other performance parameters!
 
 ### Protocol
 Put all files in a same folder and write `python main.py` in your terminal.
 You can choose a *k* and compute the optimal *k*.
-You have all results (confusion matrix, different performances...) in a txt file.
+You have all results (confusion matrix, accuracy, Matthews correlation coefficient, prevalence, precision, recall, F-score...) in a txt file.
 
 Vocabulary I use for performances:
 
