@@ -2,9 +2,9 @@
 ## *k* Nearest Neighbors for image processing
 > If you use my code or a part of it for your projects, thank you for quoting me!
 
-I use the dataset MNIST784 from *scikit-learn* Python library: 70 000 handwritten numbers between 0 and 9.
+I use the dataset MNIST784 from *scikit-learn* Python library: 70,000 handwritten numbers between 0 and 9.
 I recreate the dataset with images to be more flexible (with other images for other projects for instance).
-My algorithm has an accuracy of 97 % for a dataset of only 1 000 images, which is very good!
+My algorithm has an accuracy of 97% for a dataset of only 1,000 images, which is very good!
 Take a look of other performance parameters!
 
 ### Protocol
