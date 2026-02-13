@@ -1,5 +1,5 @@
 # Machine Learning - Handwritten Number Recognition
-## *k* Nearest Neighbors for image processing
+## *k*-Nearest Neighbors for image processing
 > If you use my code or a part of it for your projects, thank you for quoting me!
 
 I use the dataset MNIST784 from *scikit-learn* Python library: 70,000 handwritten numbers between 0 and 9.
